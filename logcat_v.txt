@@ -1,0 +1,828 @@
+07-13 12:46:55.918  29729-29729/io.github.melvincabatuan.yuv D/dalvikvm﹕ Trying to load lib /data/data/io.github.melvincabatuan.yuv/lib/libImageProcessing.so 0x2bde1540
+07-13 12:46:55.918  29729-29729/io.github.melvincabatuan.yuv D/dalvikvm﹕ Added shared lib /data/data/io.github.melvincabatuan.yuv/lib/libImageProcessing.so 0x2bde1540
+07-13 12:46:55.918  29729-29729/io.github.melvincabatuan.yuv D/dalvikvm﹕ No JNI_OnLoad found in /data/data/io.github.melvincabatuan.yuv/lib/libImageProcessing.so 0x2bde1540, skipping init
+07-13 12:46:56.008  29729-29729/io.github.melvincabatuan.yuv D/libEGL﹕ loaded /system/lib/egl/libGLES_android.so
+07-13 12:46:56.008  29729-29729/io.github.melvincabatuan.yuv D/libEGL﹕ loaded /system/lib/egl/libEGL_adreno200.so
+07-13 12:46:56.018  29729-29729/io.github.melvincabatuan.yuv D/libEGL﹕ loaded /system/lib/egl/libGLESv1_CM_adreno200.so
+07-13 12:46:56.028  29729-29729/io.github.melvincabatuan.yuv D/libEGL﹕ loaded /system/lib/egl/libGLESv2_adreno200.so
+07-13 12:46:56.118  29729-29729/io.github.melvincabatuan.yuv D/OpenGLRenderer﹕ Enabling debug mode 0
+07-13 12:46:56.298  29729-29729/io.github.melvincabatuan.yuv D/dalvikvm﹕ GC_FOR_ALLOC freed 132K, 3% free 9091K/9351K, paused 30ms
+07-13 12:46:56.298  29729-29729/io.github.melvincabatuan.yuv I/dalvikvm-heap﹕ Grow heap (frag case) to 9.300MB for 405520-byte allocation
+07-13 12:46:56.328  29729-29729/io.github.melvincabatuan.yuv D/dalvikvm﹕ GC_FOR_ALLOC freed 1K, 4% free 9486K/9799K, paused 29ms
+07-13 12:46:56.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 42.22616195678711 fps.
+07-13 12:46:56.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.53683090209961 fps.
+07-13 12:46:56.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.870027542114258 fps.
+07-13 12:46:56.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.1940803527832 fps.
+07-13 12:46:56.848  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.362043380737305 fps.
+07-13 12:46:56.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.296945571899414 fps.
+07-13 12:46:56.928  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.49010467529297 fps.
+07-13 12:46:56.958  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.629554748535156 fps.
+07-13 12:46:56.998  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.225770950317383 fps.
+07-13 12:46:57.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.362043380737305 fps.
+07-13 12:46:57.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 29.719356346130372 fps after 10 frames.
+07-13 12:46:57.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.674907684326172 fps.
+07-13 12:46:57.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.322866439819336 fps.
+07-13 12:46:57.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.21893882751465 fps.
+07-13 12:46:57.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.078845977783203 fps.
+07-13 12:46:57.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.29848861694336 fps.
+07-13 12:46:57.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.501277923583984 fps.
+07-13 12:46:57.298  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.421300888061523 fps.
+07-13 12:46:57.328  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.767547607421875 fps.
+07-13 12:46:57.368  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.397920608520508 fps.
+07-13 12:46:57.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 16.59145164489746 fps.
+07-13 12:46:57.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.02335548400879 fps after 20 frames.
+07-13 12:46:57.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.74068832397461 fps.
+07-13 12:46:57.538  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 14.901352882385254 fps.
+07-13 12:46:57.558  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 40.15580368041992 fps.
+07-13 12:46:57.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.08119010925293 fps.
+07-13 12:46:57.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.710643768310547 fps.
+07-13 12:46:57.668  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.683744430541992 fps.
+07-13 12:46:57.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.969308853149414 fps.
+07-13 12:46:57.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.668081283569336 fps.
+07-13 12:46:57.768  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.32733917236328 fps.
+07-13 12:46:57.798  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.83317565917969 fps.
+07-13 12:46:57.798  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.351281261444093 fps after 30 frames.
+07-13 12:46:57.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.257186889648438 fps.
+07-13 12:46:57.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.668081283569336 fps.
+07-13 12:46:57.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.001022338867188 fps.
+07-13 12:46:57.928  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.231218338012695 fps.
+07-13 12:46:57.968  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:46:58.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 10.886367797851563 fps.
+07-13 12:46:58.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 18.439977645874023 fps.
+07-13 12:46:58.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 15.205656051635742 fps.
+07-13 12:46:58.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.567251205444336 fps.
+07-13 12:46:58.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.81406021118164 fps.
+07-13 12:46:58.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.259279131889343 fps after 40 frames.
+07-13 12:46:58.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.322866439819336 fps.
+07-13 12:46:58.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 12:46:58.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.047771453857422 fps.
+07-13 12:46:58.418  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.802936553955078 fps.
+07-13 12:46:58.458  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.801790237426758 fps.
+07-13 12:46:58.498  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.326757431030273 fps.
+07-13 12:46:58.538  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.40134048461914 fps.
+07-13 12:46:58.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.21893882751465 fps.
+07-13 12:46:58.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 19.218942642211914 fps.
+07-13 12:46:58.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 15.079545021057129 fps.
+07-13 12:46:58.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.56385482788086 fps after 50 frames.
+07-13 12:46:58.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.09406280517578 fps.
+07-13 12:46:58.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.85861587524414 fps.
+07-13 12:46:58.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.421358108520508 fps.
+07-13 12:46:58.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.93765640258789 fps.
+07-13 12:46:58.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.60085105895996 fps.
+07-13 12:46:58.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.539936065673828 fps.
+07-13 12:46:58.968  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.62227249145508 fps.
+07-13 12:46:58.998  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.207090377807617 fps.
+07-13 12:46:59.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.489896774291992 fps.
+07-13 12:46:59.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.062530517578125 fps.
+07-13 12:46:59.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.733783531188966 fps after 60 frames.
+07-13 12:46:59.098  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.79438018798828 fps.
+07-13 12:46:59.138  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.029882431030273 fps.
+07-13 12:46:59.168  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.118717193603516 fps.
+07-13 12:46:59.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.006145477294922 fps.
+07-13 12:46:59.238  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.638031005859375 fps.
+07-13 12:46:59.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.30673599243164 fps.
+07-13 12:46:59.298  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.12099075317383 fps.
+07-13 12:46:59.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 12:46:59.368  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.148765563964844 fps.
+07-13 12:46:59.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.109661102294922 fps.
+07-13 12:46:59.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.183537946428572 fps after 70 frames.
+07-13 12:46:59.438  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.33583641052246 fps.
+07-13 12:46:59.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.70218276977539 fps.
+07-13 12:46:59.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.6015625 fps.
+07-13 12:46:59.538  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.340726852416992 fps.
+07-13 12:46:59.568  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.41436004638672 fps.
+07-13 12:46:59.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.00750160217285 fps.
+07-13 12:46:59.639  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.062530517578125 fps.
+07-13 12:46:59.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.61803436279297 fps.
+07-13 12:46:59.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.44753074645996 fps.
+07-13 12:46:59.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.443838119506836 fps.
+07-13 12:46:59.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.535272002220154 fps after 80 frames.
+07-13 12:46:59.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.49408721923828 fps.
+07-13 12:46:59.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.415225982666016 fps.
+07-13 12:46:59.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 15.21259593963623 fps.
+07-13 12:46:59.908  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.59716033935547 fps.
+07-13 12:46:59.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.383136749267578 fps.
+07-13 12:47:00.008  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 16.229814529418945 fps.
+07-13 12:47:00.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.692718505859375 fps.
+07-13 12:47:00.128  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 13.33653450012207 fps.
+07-13 12:47:00.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 20.090810775756836 fps.
+07-13 12:47:00.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.08119010925293 fps.
+07-13 12:47:00.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.981722609202066 fps after 90 frames.
+07-13 12:47:00.288  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 13.90240478515625 fps.
+07-13 12:47:00.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 17.040128707885742 fps.
+07-13 12:47:00.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.558837890625 fps.
+07-13 12:47:00.418  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.532939910888672 fps.
+07-13 12:47:00.458  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.83317565917969 fps.
+07-13 12:47:00.488  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.49408721923828 fps.
+07-13 12:47:00.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.975648880004883 fps.
+07-13 12:47:00.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 42.72226333618164 fps.
+07-13 12:47:00.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.094486236572266 fps.
+07-13 12:47:00.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.370403289794922 fps.
+07-13 12:47:00.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.028794107437133 fps after 100 frames.
+07-13 12:47:00.658  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.683744430541992 fps.
+07-13 12:47:00.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.03316879272461 fps.
+07-13 12:47:00.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.84286880493164 fps.
+07-13 12:47:00.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.700334548950195 fps.
+07-13 12:47:00.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.71210479736328 fps.
+07-13 12:47:00.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.629554748535156 fps.
+07-13 12:47:00.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.88344955444336 fps.
+07-13 12:47:00.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.618854522705078 fps.
+07-13 12:47:00.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.815959930419922 fps.
+07-13 12:47:01.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 12.190513610839844 fps.
+07-13 12:47:01.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.718090586228804 fps after 110 frames.
+07-13 12:47:01.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 19.775352478027344 fps.
+07-13 12:47:01.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 14.962668418884277 fps.
+07-13 12:47:01.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.85467529296875 fps.
+07-13 12:47:01.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.676485061645508 fps.
+07-13 12:47:01.298  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.141183853149414 fps.
+07-13 12:47:01.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.830724716186523 fps.
+07-13 12:47:01.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 15.471254348754883 fps.
+07-13 12:47:01.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 15.248085975646973 fps.
+07-13 12:47:01.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 13.352739334106445 fps.
+07-13 12:47:01.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 20.91131591796875 fps.
+07-13 12:47:01.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.15178708235423 fps after 120 frames.
+07-13 12:47:01.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 11.94172477722168 fps.
+07-13 12:47:01.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.118717193603516 fps.
+07-13 12:47:01.758  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.866348266601563 fps.
+07-13 12:47:01.798  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.18524742126465 fps.
+07-13 12:47:01.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.272125244140625 fps.
+07-13 12:47:01.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.963167190551758 fps.
+07-13 12:47:01.918  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.9770565032959 fps.
+07-13 12:47:01.968  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.715055465698242 fps.
+07-13 12:47:02.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 19.799236297607422 fps.
+07-13 12:47:02.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 15.290753364562988 fps.
+07-13 12:47:02.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 25.879568320054275 fps after 130 frames.
+07-13 12:47:02.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 12.875481605529785 fps.
+07-13 12:47:02.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.103208541870117 fps.
+07-13 12:47:02.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 38.6413688659668 fps.
+07-13 12:47:02.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.006145477294922 fps.
+07-13 12:47:02.288  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 38.32445526123047 fps.
+07-13 12:47:02.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 19.8113956451416 fps.
+07-13 12:47:02.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 19.423887252807617 fps.
+07-13 12:47:02.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.606006622314453 fps.
+07-13 12:47:02.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.09032440185547 fps.
+07-13 12:47:02.488  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 44.34000015258789 fps.
+07-13 12:47:02.488  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.011186824526106 fps after 140 frames.
+07-13 12:47:02.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.340744018554688 fps.
+07-13 12:47:02.558  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.818851470947266 fps.
+07-13 12:47:02.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.443838119506836 fps.
+07-13 12:47:02.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.447330474853516 fps.
+07-13 12:47:02.658  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.419586181640625 fps.
+07-13 12:47:02.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.93765640258789 fps.
+07-13 12:47:02.768  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 16.039264678955078 fps.
+07-13 12:47:02.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.57109451293945 fps.
+07-13 12:47:02.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.127344131469727 fps.
+07-13 12:47:02.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.047771453857422 fps.
+07-13 12:47:02.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.138397579193114 fps after 150 frames.
+07-13 12:47:02.888  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.36760330200195 fps.
+07-13 12:47:02.928  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.14883041381836 fps.
+07-13 12:47:02.958  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.03164291381836 fps.
+07-13 12:47:02.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.62411880493164 fps.
+07-13 12:47:03.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.388427734375 fps.
+07-13 12:47:03.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.568979263305664 fps.
+07-13 12:47:03.098  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.424728393554688 fps.
+07-13 12:47:03.128  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.62787437438965 fps.
+07-13 12:47:03.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.173194885253906 fps.
+07-13 12:47:03.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 12:47:03.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.41038982272148 fps after 160 frames.
+07-13 12:47:03.238  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.500446319580078 fps.
+07-13 12:47:03.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.69388961791992 fps.
+07-13 12:47:03.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.91829490661621 fps.
+07-13 12:47:03.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.752079010009766 fps.
+07-13 12:47:03.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.08922576904297 fps.
+07-13 12:47:03.398  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.008785247802734 fps.
+07-13 12:47:03.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.712032318115234 fps.
+07-13 12:47:03.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.49408721923828 fps.
+07-13 12:47:03.499  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.87555694580078 fps.
+07-13 12:47:03.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.73447036743164 fps.
+07-13 12:47:03.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.637889643276438 fps after 170 frames.
+07-13 12:47:03.568  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.727962493896484 fps.
+07-13 12:47:03.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.9652214050293 fps.
+07-13 12:47:03.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.310041427612305 fps.
+07-13 12:47:03.668  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 12:47:03.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.842729568481445 fps.
+07-13 12:47:03.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.362539291381836 fps.
+07-13 12:47:03.768  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.596010208129883 fps.
+07-13 12:47:03.798  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.15281867980957 fps.
+07-13 12:47:03.838  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.05975914001465 fps.
+07-13 12:47:03.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.59716033935547 fps.
+07-13 12:47:03.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.797793425454035 fps after 180 frames.
+07-13 12:47:03.908  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.720827102661133 fps.
+07-13 12:47:03.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.448974609375 fps.
+07-13 12:47:03.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.456008911132813 fps.
+07-13 12:47:04.008  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.396984100341797 fps.
+07-13 12:47:04.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.501277923583984 fps.
+07-13 12:47:04.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.518465042114258 fps.
+07-13 12:47:04.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.277095794677734 fps.
+07-13 12:47:04.138  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.1010684967041 fps.
+07-13 12:47:04.168  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.386333465576172 fps.
+07-13 12:47:04.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.179189682006836 fps.
+07-13 12:47:04.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 26.992573903736314 fps after 190 frames.
+07-13 12:47:04.238  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.8160343170166 fps.
+07-13 12:47:04.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.710643768310547 fps.
+07-13 12:47:04.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.64344596862793 fps.
+07-13 12:47:04.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.898048400878906 fps.
+07-13 12:47:04.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.126497268676758 fps.
+07-13 12:47:04.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.78938865661621 fps.
+07-13 12:47:04.448  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.352296829223633 fps.
+07-13 12:47:04.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.248586654663086 fps.
+07-13 12:47:04.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.57394790649414 fps.
+07-13 12:47:04.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.870027542114258 fps.
+07-13 12:47:04.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.12308979511261 fps after 200 frames.
+07-13 12:47:04.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.30918312072754 fps.
+07-13 12:47:04.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.369291305541992 fps.
+07-13 12:47:04.648  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.388427734375 fps.
+07-13 12:47:04.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.266611099243164 fps.
+07-13 12:47:04.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.78938865661621 fps.
+07-13 12:47:04.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.03084373474121 fps.
+07-13 12:47:04.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.89588737487793 fps.
+07-13 12:47:04.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.680635452270508 fps.
+07-13 12:47:04.848  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.415225982666016 fps.
+07-13 12:47:04.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.8160343170166 fps.
+07-13 12:47:04.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.255140418098087 fps after 210 frames.
+07-13 12:47:04.918  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.08119010925293 fps.
+07-13 12:47:04.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.748695373535156 fps.
+07-13 12:47:04.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.69455337524414 fps.
+07-13 12:47:05.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.420394897460938 fps.
+07-13 12:47:05.048  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.088727951049805 fps.
+07-13 12:47:05.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.148765563964844 fps.
+07-13 12:47:05.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.124595642089844 fps.
+07-13 12:47:05.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 14.955731391906738 fps.
+07-13 12:47:05.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.272125244140625 fps.
+07-13 12:47:05.248  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.834251403808594 fps.
+07-13 12:47:05.248  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.322493267059325 fps after 220 frames.
+07-13 12:47:05.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.04949951171875 fps.
+07-13 12:47:05.318  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.952674865722656 fps.
+07-13 12:47:05.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.84504508972168 fps.
+07-13 12:47:05.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.659595489501953 fps.
+07-13 12:47:05.418  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.518465042114258 fps.
+07-13 12:47:05.448  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.855627059936523 fps.
+07-13 12:47:05.488  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 12:47:05.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.05120277404785 fps.
+07-13 12:47:05.558  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.638031005859375 fps.
+07-13 12:47:05.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.65570831298828 fps.
+07-13 12:47:05.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.44250023883322 fps after 230 frames.
+07-13 12:47:05.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.6755313873291 fps.
+07-13 12:47:05.658  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.51106071472168 fps.
+07-13 12:47:05.688  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.39801025390625 fps.
+07-13 12:47:05.728  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.84504508972168 fps.
+07-13 12:47:05.758  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.1652946472168 fps.
+07-13 12:47:05.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.257186889648438 fps.
+07-13 12:47:05.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.05975914001465 fps.
+07-13 12:47:05.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.84504508972168 fps.
+07-13 12:47:05.888  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.84504508972168 fps.
+07-13 12:47:05.919  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.416902542114258 fps.
+07-13 12:47:05.919  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.54080806573232 fps after 240 frames.
+07-13 12:47:05.958  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.73447036743164 fps.
+07-13 12:47:05.998  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.383832931518555 fps.
+07-13 12:47:06.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.93265151977539 fps.
+07-13 12:47:06.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.117759704589844 fps.
+07-13 12:47:06.088  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.870363235473633 fps.
+07-13 12:47:06.128  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 12:47:06.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.99811553955078 fps.
+07-13 12:47:06.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.078845977783203 fps.
+07-13 12:47:06.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.738964080810547 fps.
+07-13 12:47:06.259  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.173194885253906 fps.
+07-13 12:47:06.259  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.62547787475586 fps after 250 frames.
+07-13 12:47:06.298  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.683744430541992 fps.
+07-13 12:47:06.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.39801025390625 fps.
+07-13 12:47:06.359  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.406951904296875 fps.
+07-13 12:47:06.398  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.28467559814453 fps.
+07-13 12:47:06.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.12702178955078 fps.
+07-13 12:47:06.458  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.296945571899414 fps.
+07-13 12:47:06.498  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 12:47:06.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.5824031829834 fps.
+07-13 12:47:06.568  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.2238712310791 fps.
+07-13 12:47:06.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.63923263549805 fps.
+07-13 12:47:06.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.72138330753033 fps after 260 frames.
+07-13 12:47:06.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.81927490234375 fps.
+07-13 12:47:06.668  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.567018508911133 fps.
+07-13 12:47:06.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.035442352294922 fps.
+07-13 12:47:06.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.93765640258789 fps.
+07-13 12:47:06.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.911130905151367 fps.
+07-13 12:47:06.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.264646530151367 fps.
+07-13 12:47:06.838  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 45.25910949707031 fps.
+07-13 12:47:06.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.1287841796875 fps.
+07-13 12:47:06.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.3217887878418 fps.
+07-13 12:47:06.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.44076156616211 fps.
+07-13 12:47:06.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.808315828111436 fps after 270 frames.
+07-13 12:47:06.968  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.026065826416016 fps.
+07-13 12:47:07.008  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.14809226989746 fps.
+07-13 12:47:07.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.368927001953125 fps.
+07-13 12:47:07.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 12:47:07.098  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.024206161499023 fps.
+07-13 12:47:07.138  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.45345115661621 fps.
+07-13 12:47:07.168  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.65180778503418 fps.
+07-13 12:47:07.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.34780502319336 fps.
+07-13 12:47:07.238  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.681516647338867 fps.
+07-13 12:47:07.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.73447036743164 fps.
+07-13 12:47:07.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.907770681381226 fps after 280 frames.
+07-13 12:47:07.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.321392059326172 fps.
+07-13 12:47:07.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 12:47:07.368  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.25773048400879 fps.
+07-13 12:47:07.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.31221580505371 fps.
+07-13 12:47:07.438  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.46724510192871 fps.
+07-13 12:47:07.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.640380859375 fps.
+07-13 12:47:07.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.889888763427734 fps.
+07-13 12:47:07.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.68445587158203 fps.
+07-13 12:47:07.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.5540771484375 fps.
+07-13 12:47:07.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.3217887878418 fps.
+07-13 12:47:07.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 27.977617862306793 fps after 290 frames.
+07-13 12:47:07.638  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.2373104095459 fps.
+07-13 12:47:07.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.345474243164063 fps.
+07-13 12:47:07.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.952674865722656 fps.
+07-13 12:47:07.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.596010208129883 fps.
+07-13 12:47:07.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.520296096801758 fps.
+07-13 12:47:07.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.596010208129883 fps.
+07-13 12:47:07.848  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:07.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.68053436279297 fps.
+07-13 12:47:07.908  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.712032318115234 fps.
+07-13 12:47:07.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.573549270629883 fps.
+07-13 12:47:07.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.041616592407227 fps after 300 frames.
+07-13 12:47:07.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.145906448364258 fps.
+07-13 12:47:08.008  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.17833709716797 fps.
+07-13 12:47:08.048  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 12:47:08.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.127344131469727 fps.
+07-13 12:47:08.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.248586654663086 fps.
+07-13 12:47:08.148  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.89906692504883 fps.
+07-13 12:47:08.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:08.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.898048400878906 fps.
+07-13 12:47:08.248  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.76828384399414 fps.
+07-13 12:47:08.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.39537811279297 fps.
+07-13 12:47:08.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.098760666385775 fps after 310 frames.
+07-13 12:47:08.318  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.062530517578125 fps.
+07-13 12:47:08.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.361677169799805 fps.
+07-13 12:47:08.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.228832244873047 fps.
+07-13 12:47:08.418  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.296546936035156 fps.
+07-13 12:47:08.448  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.257186889648438 fps.
+07-13 12:47:08.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.870363235473633 fps.
+07-13 12:47:08.518  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.898048400878906 fps.
+07-13 12:47:08.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 12:47:08.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.231218338012695 fps.
+07-13 12:47:08.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.693580627441406 fps.
+07-13 12:47:08.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.144449257850646 fps after 320 frames.
+07-13 12:47:08.658  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.12702178955078 fps.
+07-13 12:47:08.688  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.37922668457031 fps.
+07-13 12:47:08.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.28343391418457 fps.
+07-13 12:47:08.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 12:47:08.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.02336311340332 fps.
+07-13 12:47:08.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.035442352294922 fps.
+07-13 12:47:08.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.0345401763916 fps.
+07-13 12:47:08.888  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.2238712310791 fps.
+07-13 12:47:08.919  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.537782669067383 fps.
+07-13 12:47:08.958  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.205608367919922 fps.
+07-13 12:47:08.958  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.196843233975496 fps after 330 frames.
+07-13 12:47:08.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.39801025390625 fps.
+07-13 12:47:09.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.5380802154541 fps.
+07-13 12:47:09.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.65321922302246 fps.
+07-13 12:47:09.088  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.45345115661621 fps.
+07-13 12:47:09.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.36836814880371 fps.
+07-13 12:47:09.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.65511131286621 fps.
+07-13 12:47:09.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.04949951171875 fps.
+07-13 12:47:09.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.991281509399414 fps.
+07-13 12:47:09.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.81369972229004 fps.
+07-13 12:47:09.288  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.654232025146484 fps.
+07-13 12:47:09.288  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.239803589091583 fps after 340 frames.
+07-13 12:47:09.328  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.313135147094727 fps.
+07-13 12:47:09.368  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.599672317504883 fps.
+07-13 12:47:09.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.520620346069336 fps.
+07-13 12:47:09.438  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.13233184814453 fps.
+07-13 12:47:09.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.28467559814453 fps.
+07-13 12:47:09.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.60024642944336 fps.
+07-13 12:47:09.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 43.51799392700195 fps.
+07-13 12:47:09.568  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.619020462036133 fps.
+07-13 12:47:09.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.60024642944336 fps.
+07-13 12:47:09.638  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 46.94615173339844 fps.
+07-13 12:47:09.638  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.31619232722691 fps after 350 frames.
+07-13 12:47:09.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.308425903320313 fps.
+07-13 12:47:09.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.421358108520508 fps.
+07-13 12:47:09.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 41.21841812133789 fps.
+07-13 12:47:09.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.639711380004883 fps.
+07-13 12:47:09.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.03316879272461 fps.
+07-13 12:47:09.838  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 49.12797927856445 fps.
+07-13 12:47:09.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.40555191040039 fps.
+07-13 12:47:09.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.00644874572754 fps.
+07-13 12:47:09.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.00644874572754 fps.
+07-13 12:47:09.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.183212280273438 fps.
+07-13 12:47:09.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.375050104988947 fps after 360 frames.
+07-13 12:47:10.008  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 44.64285659790039 fps.
+07-13 12:47:10.048  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.563385009765625 fps.
+07-13 12:47:10.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.16639709472656 fps.
+07-13 12:47:10.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.567018508911133 fps.
+07-13 12:47:10.148  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.1905574798584 fps.
+07-13 12:47:10.168  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 47.216583251953125 fps.
+07-13 12:47:10.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.156410217285156 fps.
+07-13 12:47:10.238  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.175363540649414 fps.
+07-13 12:47:10.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.91901397705078 fps.
+07-13 12:47:10.318  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.72760772705078 fps.
+07-13 12:47:10.318  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.45227900324641 fps after 370 frames.
+07-13 12:47:10.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 18.295917510986328 fps.
+07-13 12:47:10.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.942626953125 fps.
+07-13 12:47:10.438  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.08922576904297 fps.
+07-13 12:47:10.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.44076156616211 fps.
+07-13 12:47:10.518  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.236549377441406 fps.
+07-13 12:47:10.538  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 47.698543548583984 fps.
+07-13 12:47:10.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.619020462036133 fps.
+07-13 12:47:10.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 40.503868103027344 fps.
+07-13 12:47:10.648  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.557125091552734 fps.
+07-13 12:47:10.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 41.06270217895508 fps.
+07-13 12:47:10.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.51523571516338 fps after 380 frames.
+07-13 12:47:10.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.47722625732422 fps.
+07-13 12:47:10.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 12:47:10.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.024206161499023 fps.
+07-13 12:47:10.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.937658309936523 fps.
+07-13 12:47:10.838  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.654232025146484 fps.
+07-13 12:47:10.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.743892669677734 fps.
+07-13 12:47:10.908  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.510129928588867 fps.
+07-13 12:47:10.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.23830795288086 fps.
+07-13 12:47:10.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.63814163208008 fps.
+07-13 12:47:11.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.801124572753906 fps.
+07-13 12:47:11.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.544517502417932 fps after 390 frames.
+07-13 12:47:11.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.891178131103516 fps.
+07-13 12:47:11.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.92095947265625 fps.
+07-13 12:47:11.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.173194885253906 fps.
+07-13 12:47:11.138  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.816923141479492 fps.
+07-13 12:47:11.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.618398666381836 fps.
+07-13 12:47:11.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.18953323364258 fps.
+07-13 12:47:11.248  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.30918312072754 fps.
+07-13 12:47:11.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.73447036743164 fps.
+07-13 12:47:11.318  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.64344596862793 fps.
+07-13 12:47:11.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.855627059936523 fps.
+07-13 12:47:11.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.586286849975586 fps after 400 frames.
+07-13 12:47:11.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.08966636657715 fps.
+07-13 12:47:11.418  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.52116584777832 fps.
+07-13 12:47:11.448  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.924888610839844 fps.
+07-13 12:47:11.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.924888610839844 fps.
+07-13 12:47:11.518  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.769527435302734 fps.
+07-13 12:47:11.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.8251895904541 fps.
+07-13 12:47:11.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.735355377197266 fps.
+07-13 12:47:11.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.173194885253906 fps.
+07-13 12:47:11.648  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.28343391418457 fps.
+07-13 12:47:11.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.897153854370117 fps.
+07-13 12:47:11.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.616241962153737 fps after 410 frames.
+07-13 12:47:11.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.127344131469727 fps.
+07-13 12:47:11.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.062530517578125 fps.
+07-13 12:47:11.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:11.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.310041427612305 fps.
+07-13 12:47:11.848  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.41436004638672 fps.
+07-13 12:47:11.888  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.78938865661621 fps.
+07-13 12:47:11.918  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.282577514648438 fps.
+07-13 12:47:11.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.118717193603516 fps.
+07-13 12:47:11.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.816923141479492 fps.
+07-13 12:47:12.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.693580627441406 fps.
+07-13 12:47:12.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.64056327002389 fps after 420 frames.
+07-13 12:47:12.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.842729568481445 fps.
+07-13 12:47:12.088  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.840417861938477 fps.
+07-13 12:47:12.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.144996643066406 fps.
+07-13 12:47:12.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.441205978393555 fps.
+07-13 12:47:12.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.267587661743164 fps.
+07-13 12:47:12.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.08966636657715 fps.
+07-13 12:47:12.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.272546768188477 fps.
+07-13 12:47:12.288  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.78336524963379 fps.
+07-13 12:47:12.318  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:12.358  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.628889083862305 fps.
+07-13 12:47:12.358  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.663046242469964 fps after 430 frames.
+07-13 12:47:12.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:12.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.568645477294922 fps.
+07-13 12:47:12.458  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.683744430541992 fps.
+07-13 12:47:12.488  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.12541580200195 fps.
+07-13 12:47:12.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 12:47:12.558  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:12.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.8817195892334 fps.
+07-13 12:47:12.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.520296096801758 fps.
+07-13 12:47:12.658  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.296945571899414 fps.
+07-13 12:47:12.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.693580627441406 fps.
+07-13 12:47:12.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.687018767270175 fps after 440 frames.
+07-13 12:47:12.728  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.900146484375 fps.
+07-13 12:47:12.758  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.1010684967041 fps.
+07-13 12:47:12.798  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.510129928588867 fps.
+07-13 12:47:12.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.030834197998047 fps.
+07-13 12:47:12.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.266611099243164 fps.
+07-13 12:47:12.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.125999450683594 fps.
+07-13 12:47:12.928  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.99894332885742 fps.
+07-13 12:47:12.968  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.859336853027344 fps.
+07-13 12:47:12.998  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.207090377807617 fps.
+07-13 12:47:13.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.321392059326172 fps.
+07-13 12:47:13.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.71246624416775 fps after 450 frames.
+07-13 12:47:13.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.301143646240234 fps.
+07-13 12:47:13.098  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.441205978393555 fps.
+07-13 12:47:13.128  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.388427734375 fps.
+07-13 12:47:13.168  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.652572631835938 fps.
+07-13 12:47:13.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.73536682128906 fps.
+07-13 12:47:13.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.175363540649414 fps.
+07-13 12:47:13.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.870027542114258 fps.
+07-13 12:47:13.298  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.396984100341797 fps.
+07-13 12:47:13.328  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.177900314331055 fps.
+07-13 12:47:13.368  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.468101501464844 fps.
+07-13 12:47:13.368  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.7417758775794 fps after 460 frames.
+07-13 12:47:13.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.200769424438477 fps.
+07-13 12:47:13.438  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.652862548828125 fps.
+07-13 12:47:13.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.62787437438965 fps.
+07-13 12:47:13.498  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.266611099243164 fps.
+07-13 12:47:13.538  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.179189682006836 fps.
+07-13 12:47:13.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.660106658935547 fps.
+07-13 12:47:13.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.45661926269531 fps.
+07-13 12:47:13.638  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.024206161499023 fps.
+07-13 12:47:13.668  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.652280807495117 fps.
+07-13 12:47:13.698  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.482229232788086 fps.
+07-13 12:47:13.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.77110564455073 fps after 470 frames.
+07-13 12:47:13.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.2238712310791 fps.
+07-13 12:47:13.768  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.898048400878906 fps.
+07-13 12:47:13.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.693580627441406 fps.
+07-13 12:47:13.848  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.5824031829834 fps.
+07-13 12:47:13.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 36.448463439941406 fps.
+07-13 12:47:13.908  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.693580627441406 fps.
+07-13 12:47:13.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.175363540649414 fps.
+07-13 12:47:13.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 12:47:14.008  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.668903350830078 fps.
+07-13 12:47:14.039  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.0307502746582 fps.
+07-13 12:47:14.039  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.79524756669998 fps after 480 frames.
+07-13 12:47:14.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.62787437438965 fps.
+07-13 12:47:14.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.6755313873291 fps.
+07-13 12:47:14.138  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.62411880493164 fps.
+07-13 12:47:14.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.39537811279297 fps.
+07-13 12:47:14.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.537782669067383 fps.
+07-13 12:47:14.238  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 12:47:14.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.596010208129883 fps.
+07-13 12:47:14.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.870027542114258 fps.
+07-13 12:47:14.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.62787437438965 fps.
+07-13 12:47:14.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.361677169799805 fps.
+07-13 12:47:14.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.81150161976717 fps after 490 frames.
+07-13 12:47:14.418  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.187013626098633 fps.
+07-13 12:47:14.448  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 37.27865982055664 fps.
+07-13 12:47:14.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.62787437438965 fps.
+07-13 12:47:14.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.842729568481445 fps.
+07-13 12:47:14.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.681434631347656 fps.
+07-13 12:47:14.598  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 20.53135108947754 fps.
+07-13 12:47:14.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 50.105220794677734 fps.
+07-13 12:47:14.648  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.388427734375 fps.
+07-13 12:47:14.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.340726852416992 fps.
+07-13 12:47:14.719  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.07568359375 fps.
+07-13 12:47:14.719  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.85938983154297 fps after 500 frames.
+07-13 12:47:14.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.387563705444336 fps.
+07-13 12:47:14.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.388427734375 fps.
+07-13 12:47:14.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.001022338867188 fps.
+07-13 12:47:14.848  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.887779235839844 fps.
+07-13 12:47:14.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.85467529296875 fps.
+07-13 12:47:14.918  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 12:47:14.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.388427734375 fps.
+07-13 12:47:14.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 12:47:15.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.208065032958984 fps.
+07-13 12:47:15.048  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.33583641052246 fps.
+07-13 12:47:15.048  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.876944265178604 fps after 510 frames.
+07-13 12:47:15.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 12:47:15.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.520296096801758 fps.
+07-13 12:47:15.148  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.952674865722656 fps.
+07-13 12:47:15.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.08966636657715 fps.
+07-13 12:47:15.219  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.49417495727539 fps.
+07-13 12:47:15.248  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.547334671020508 fps.
+07-13 12:47:15.288  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.975648880004883 fps.
+07-13 12:47:15.318  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.608924865722656 fps.
+07-13 12:47:15.358  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.8160343170166 fps.
+07-13 12:47:15.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.738964080810547 fps.
+07-13 12:47:15.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.895902901429395 fps after 520 frames.
+07-13 12:47:15.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.519969940185547 fps.
+07-13 12:47:15.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.170490264892578 fps.
+07-13 12:47:15.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.65665626525879 fps.
+07-13 12:47:15.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.186378479003906 fps.
+07-13 12:47:15.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.4256649017334 fps.
+07-13 12:47:15.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.81406021118164 fps.
+07-13 12:47:15.668  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.652572631835938 fps.
+07-13 12:47:15.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.40134048461914 fps.
+07-13 12:47:15.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.3629093170166 fps.
+07-13 12:47:15.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.84286880493164 fps.
+07-13 12:47:15.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.822457396309332 fps after 530 frames.
+07-13 12:47:15.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.9950008392334 fps.
+07-13 12:47:15.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.190019607543945 fps.
+07-13 12:47:15.918  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.931045532226563 fps.
+07-13 12:47:15.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.7692928314209 fps.
+07-13 12:47:15.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.00644874572754 fps.
+07-13 12:47:16.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.625022888183594 fps.
+07-13 12:47:16.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.845508575439453 fps.
+07-13 12:47:16.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.558837890625 fps.
+07-13 12:47:16.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.4905948638916 fps.
+07-13 12:47:16.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.60524559020996 fps.
+07-13 12:47:16.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.751702661867494 fps after 540 frames.
+07-13 12:47:16.229  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.81406021118164 fps.
+07-13 12:47:16.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.660106658935547 fps.
+07-13 12:47:16.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.91901397705078 fps.
+07-13 12:47:16.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.047771453857422 fps.
+07-13 12:47:16.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.09032440185547 fps.
+07-13 12:47:16.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.129528045654297 fps.
+07-13 12:47:16.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.34276008605957 fps.
+07-13 12:47:16.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.55975914001465 fps.
+07-13 12:47:16.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.21893882751465 fps.
+07-13 12:47:16.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.580026626586914 fps.
+07-13 12:47:16.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.68414859424938 fps after 550 frames.
+07-13 12:47:16.638  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.405500411987305 fps.
+07-13 12:47:16.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.50673484802246 fps.
+07-13 12:47:16.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.970468521118164 fps.
+07-13 12:47:16.758  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.606006622314453 fps.
+07-13 12:47:16.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.214380264282227 fps.
+07-13 12:47:16.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.880573272705078 fps.
+07-13 12:47:16.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.805278778076172 fps.
+07-13 12:47:16.908  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.749412536621094 fps.
+07-13 12:47:16.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.46084213256836 fps.
+07-13 12:47:16.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.880573272705078 fps.
+07-13 12:47:16.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.617431245531353 fps after 560 frames.
+07-13 12:47:17.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.25635528564453 fps.
+07-13 12:47:17.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.924198150634766 fps.
+07-13 12:47:17.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.599672317504883 fps.
+07-13 12:47:17.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.91901397705078 fps.
+07-13 12:47:17.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.657678604125977 fps.
+07-13 12:47:17.238  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.98550033569336 fps.
+07-13 12:47:17.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.109661102294922 fps.
+07-13 12:47:17.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.925783157348633 fps.
+07-13 12:47:17.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.897153854370117 fps.
+07-13 12:47:17.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.20144271850586 fps.
+07-13 12:47:17.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.577610450878478 fps after 570 frames.
+07-13 12:47:17.409  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 12:47:17.448  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.626996994018555 fps.
+07-13 12:47:17.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.84362030029297 fps.
+07-13 12:47:17.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.76828384399414 fps.
+07-13 12:47:17.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.693580627441406 fps.
+07-13 12:47:17.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.04949951171875 fps.
+07-13 12:47:17.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.969444274902344 fps.
+07-13 12:47:17.648  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.703250885009766 fps.
+07-13 12:47:17.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 12:47:17.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.36836814880371 fps.
+07-13 12:47:17.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.59753389687374 fps after 580 frames.
+07-13 12:47:17.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.489896774291992 fps.
+07-13 12:47:17.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.03316879272461 fps.
+07-13 12:47:17.818  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 40.55314636230469 fps.
+07-13 12:47:17.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.362686157226563 fps.
+07-13 12:47:17.878  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.462249755859375 fps.
+07-13 12:47:17.918  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.179189682006836 fps.
+07-13 12:47:17.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.681434631347656 fps.
+07-13 12:47:17.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 12:47:18.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.297348022460938 fps.
+07-13 12:47:18.049  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.62411880493164 fps.
+07-13 12:47:18.049  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.62735103995113 fps after 590 frames.
+07-13 12:47:18.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.310041427612305 fps.
+07-13 12:47:18.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.680635452270508 fps.
+07-13 12:47:18.148  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.127344131469727 fps.
+07-13 12:47:18.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.746177673339844 fps.
+07-13 12:47:18.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.8251895904541 fps.
+07-13 12:47:18.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.532939910888672 fps.
+07-13 12:47:18.299  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.167362213134766 fps.
+07-13 12:47:18.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.931045532226563 fps.
+07-13 12:47:18.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.818546295166016 fps.
+07-13 12:47:18.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.82436752319336 fps.
+07-13 12:47:18.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.59850127220154 fps after 600 frames.
+07-13 12:47:18.458  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.836992263793945 fps.
+07-13 12:47:18.498  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.59786605834961 fps.
+07-13 12:47:18.538  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.09032440185547 fps.
+07-13 12:47:18.579  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.167362213134766 fps.
+07-13 12:47:18.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.629554748535156 fps.
+07-13 12:47:18.658  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.82177734375 fps.
+07-13 12:47:18.699  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.74941062927246 fps.
+07-13 12:47:18.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.355754852294922 fps.
+07-13 12:47:18.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.676485061645508 fps.
+07-13 12:47:18.819  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.054426193237305 fps.
+07-13 12:47:18.819  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.546033962437363 fps after 610 frames.
+07-13 12:47:18.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.58270835876465 fps.
+07-13 12:47:18.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.848134994506836 fps.
+07-13 12:47:18.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.14759063720703 fps.
+07-13 12:47:18.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.700334548950195 fps.
+07-13 12:47:19.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.4905948638916 fps.
+07-13 12:47:19.058  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.383136749267578 fps.
+07-13 12:47:19.098  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.46084213256836 fps.
+07-13 12:47:19.138  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.43553924560547 fps.
+07-13 12:47:19.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.44076156616211 fps.
+07-13 12:47:19.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.935470581054688 fps.
+07-13 12:47:19.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.486299727039953 fps after 620 frames.
+07-13 12:47:19.259  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.924198150634766 fps.
+07-13 12:47:19.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.12512969970703 fps.
+07-13 12:47:19.348  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.692203521728516 fps.
+07-13 12:47:19.388  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.935302734375 fps.
+07-13 12:47:19.419  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.172529220581055 fps.
+07-13 12:47:19.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.339401245117188 fps.
+07-13 12:47:19.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.86577796936035 fps.
+07-13 12:47:19.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.405500411987305 fps.
+07-13 12:47:19.588  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.89588737487793 fps.
+07-13 12:47:19.638  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 18.930072784423828 fps.
+07-13 12:47:19.638  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.421891799805657 fps after 630 frames.
+07-13 12:47:19.668  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.81277084350586 fps.
+07-13 12:47:19.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.81468391418457 fps.
+07-13 12:47:19.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.881193161010742 fps.
+07-13 12:47:19.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.862016677856445 fps.
+07-13 12:47:19.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 20.857667922973633 fps.
+07-13 12:47:19.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.118717193603516 fps.
+07-13 12:47:19.888  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 35.234840393066406 fps.
+07-13 12:47:19.928  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.447330474853516 fps.
+07-13 12:47:19.958  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.23252868652344 fps.
+07-13 12:47:19.998  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.8967227935791 fps.
+07-13 12:47:19.998  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.42804735302925 fps after 640 frames.
+07-13 12:47:20.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.404033660888672 fps.
+07-13 12:47:20.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.567018508911133 fps.
+07-13 12:47:20.098  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.257186889648438 fps.
+07-13 12:47:20.128  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.47596740722656 fps.
+07-13 12:47:20.158  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.73447036743164 fps.
+07-13 12:47:20.198  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.310041427612305 fps.
+07-13 12:47:20.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.510129928588867 fps.
+07-13 12:47:20.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.396984100341797 fps.
+07-13 12:47:20.298  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.30918312072754 fps.
+07-13 12:47:20.328  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:20.328  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.45027265695425 fps after 650 frames.
+07-13 12:47:20.368  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.62787437438965 fps.
+07-13 12:47:20.398  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.707971572875977 fps.
+07-13 12:47:20.428  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.8160343170166 fps.
+07-13 12:47:20.468  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.28343391418457 fps.
+07-13 12:47:20.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.193096160888672 fps.
+07-13 12:47:20.528  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.93449783325195 fps.
+07-13 12:47:20.568  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.8160343170166 fps.
+07-13 12:47:20.628  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 16.987157821655273 fps.
+07-13 12:47:20.668  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.99203872680664 fps.
+07-13 12:47:20.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.30918312072754 fps.
+07-13 12:47:20.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.439915983604664 fps after 660 frames.
+07-13 12:47:20.738  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.00750160217285 fps.
+07-13 12:47:20.768  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.06258773803711 fps.
+07-13 12:47:20.798  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.200531005859375 fps.
+07-13 12:47:20.838  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.749412536621094 fps.
+07-13 12:47:20.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.60207748413086 fps.
+07-13 12:47:20.898  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.720855712890625 fps.
+07-13 12:47:20.938  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.761905670166016 fps.
+07-13 12:47:20.968  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.870363235473633 fps.
+07-13 12:47:21.008  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.62787437438965 fps.
+07-13 12:47:21.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.78938865661621 fps.
+07-13 12:47:21.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.466771712231992 fps after 670 frames.
+07-13 12:47:21.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.058473587036133 fps.
+07-13 12:47:21.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.383136749267578 fps.
+07-13 12:47:21.138  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.301143646240234 fps.
+07-13 12:47:21.178  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.629554748535156 fps.
+07-13 12:47:21.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.36836814880371 fps.
+07-13 12:47:21.248  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.60085105895996 fps.
+07-13 12:47:21.278  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.951778411865234 fps.
+07-13 12:47:21.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 32.63814163208008 fps.
+07-13 12:47:21.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 34.34773635864258 fps.
+07-13 12:47:21.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.972909927368164 fps.
+07-13 12:47:21.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.488219325682696 fps after 680 frames.
+07-13 12:47:21.408  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.006601333618164 fps.
+07-13 12:47:21.438  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.925783157348633 fps.
+07-13 12:47:21.478  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.46723175048828 fps.
+07-13 12:47:21.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.04949951171875 fps.
+07-13 12:47:21.548  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.911909103393555 fps.
+07-13 12:47:21.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.79313087463379 fps.
+07-13 12:47:21.608  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 33.99163818359375 fps.
+07-13 12:47:21.648  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 31.7823543548584 fps.
+07-13 12:47:21.678  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.024206161499023 fps.
+07-13 12:47:21.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.942508697509766 fps.
+07-13 12:47:21.708  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.508527542888256 fps after 690 frames.
+07-13 12:47:21.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.60068702697754 fps.
+07-13 12:47:21.778  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.788501739501953 fps.
+07-13 12:47:21.808  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.654232025146484 fps.
+07-13 12:47:21.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.831653594970703 fps.
+07-13 12:47:21.928  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 14.222121238708496 fps.
+07-13 12:47:21.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 42.66757583618164 fps.
+07-13 12:47:21.978  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.56816291809082 fps.
+07-13 12:47:22.018  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.65321922302246 fps.
+07-13 12:47:22.048  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.25687599182129 fps.
+07-13 12:47:22.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.144996643066406 fps.
+07-13 12:47:22.078  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.51324575832912 fps after 700 frames.
+07-13 12:47:22.118  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.145906448364258 fps.
+07-13 12:47:22.148  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.884214401245117 fps.
+07-13 12:47:22.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.006498336791992 fps.
+07-13 12:47:22.218  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.33583641052246 fps.
+07-13 12:47:22.258  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.235700607299805 fps.
+07-13 12:47:22.298  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.918392181396484 fps.
+07-13 12:47:22.338  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.674907684326172 fps.
+07-13 12:47:22.378  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.84286880493164 fps.
+07-13 12:47:22.418  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.94683265686035 fps.
+07-13 12:47:22.458  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.99437713623047 fps.
+07-13 12:47:22.458  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.48768671196951 fps after 710 frames.
+07-13 12:47:22.508  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 22.899015426635742 fps.
+07-13 12:47:22.538  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.51113510131836 fps.
+07-13 12:47:22.578  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 27.628889083862305 fps.
+07-13 12:47:22.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.322866439819336 fps.
+07-13 12:47:22.648  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.25773048400879 fps.
+07-13 12:47:22.688  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.30918312072754 fps.
+07-13 12:47:22.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 30.596010208129883 fps.
+07-13 12:47:22.748  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 29.30918312072754 fps.
+07-13 12:47:22.788  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 28.078845977783203 fps.
+07-13 12:47:22.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.13081169128418 fps.
+07-13 12:47:22.828  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.474029494656456 fps after 720 frames.
+07-13 12:47:22.868  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.2060604095459 fps.
+07-13 12:47:22.908  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.344524383544922 fps.
+07-13 12:47:22.948  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.1287841796875 fps.
+07-13 12:47:22.988  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 21.962575912475586 fps.
+07-13 12:47:23.028  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.480953216552734 fps.
+07-13 12:47:23.068  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 24.730438232421875 fps.
+07-13 12:47:23.108  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.781169891357422 fps.
+07-13 12:47:23.148  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 26.4256649017334 fps.
+07-13 12:47:23.188  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.34276008605957 fps.
+07-13 12:47:23.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.09032440185547 fps.
+07-13 12:47:23.228  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ AVERAGE: 28.425745879134087 fps after 730 frames.
+07-13 12:47:23.268  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 25.148374557495117 fps.
+07-13 12:47:23.308  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 23.38907814025879 fps.
+07-13 12:47:24.208  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 1.1164565086364746 fps.
+07-13 12:47:24.208  29729-29729/io.github.melvincabatuan.yuv D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 12:47:24.228  29729-29729/io.github.melvincabatuan.yuv D/OpenGLRenderer﹕ Flushing caches (mode 0)
+07-13 12:47:24.438  29729-29729/io.github.melvincabatuan.yuv D/OpenGLRenderer﹕ Flushing caches (mode 1)
+07-13 12:47:24.618  29729-29729/io.github.melvincabatuan.yuv W/IInputConnectionWrapper﹕ showStatusIcon on inactive InputConnection
+07-13 12:47:24.618  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 2.4014620780944824 fps.
+07-13 12:47:24.718  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 10.307683944702148 fps.
+07-13 12:47:24.858  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 7.396832466125488 fps.
+07-13 12:47:24.928  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 13.551604270935059 fps.
+07-13 12:47:25.038  29729-29729/io.github.melvincabatuan.yuv D/onPreviewFrame:﹕ Measured: 10.807422637939453 fps.
+07-13 12:47:25.448  29729-29729/io.github.melvincabatuan.yuv W/SurfaceTexture﹕ freeAllBuffersExceptCurrentLocked called but mQueue is not empty
+
